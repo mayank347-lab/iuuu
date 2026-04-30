@@ -1,0 +1,11 @@
+{
+  "name": "SYSTEM 2.0",
+  "description": "High-efficiency habit tracking ritual with cycle countdowns and performance insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Local Persistence",
+    "Monthly Grid Layout",
+    "Progress Analytics",
+    "Weekly Insights"
+  ]
+}
